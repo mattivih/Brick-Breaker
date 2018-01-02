@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{603EE9CB-9F8B-4B27-CEAD-E1A9A155A4A4}") = "Block Breaker 2", "Assembly-CSharp.csproj", "{65EE7E6E-7097-AFAC-B4B8-03898E61C2DB}"
+EndProject
+Project("{603EE9CB-9F8B-4B27-CEAD-E1A9A155A4A4}") = "Block Breaker 2", "Assembly-CSharp-Editor-firstpass.csproj", "{EDB8921C-5A45-B696-D00E-48C9FA4CE9FF}"
+EndProject
+Project("{603EE9CB-9F8B-4B27-CEAD-E1A9A155A4A4}") = "Block Breaker 2", "Assembly-CSharp-Editor.csproj", "{6FCFC4C5-2AA7-9730-8EFA-97594FDBB4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EE7E6E-7097-AFAC-B4B8-03898E61C2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EE7E6E-7097-AFAC-B4B8-03898E61C2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EE7E6E-7097-AFAC-B4B8-03898E61C2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EE7E6E-7097-AFAC-B4B8-03898E61C2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB8921C-5A45-B696-D00E-48C9FA4CE9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB8921C-5A45-B696-D00E-48C9FA4CE9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB8921C-5A45-B696-D00E-48C9FA4CE9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB8921C-5A45-B696-D00E-48C9FA4CE9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCFC4C5-2AA7-9730-8EFA-97594FDBB4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCFC4C5-2AA7-9730-8EFA-97594FDBB4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCFC4C5-2AA7-9730-8EFA-97594FDBB4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCFC4C5-2AA7-9730-8EFA-97594FDBB4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
